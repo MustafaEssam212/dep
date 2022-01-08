@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.805ec9a0.chunk.css",
+    "main.js": "./static/js/main.375277f3.chunk.js",
+    "main.js.map": "./static/js/main.375277f3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cd4f1342.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cd4f1342.js.map",
+    "static/css/2.eb0391b5.chunk.css": "./static/css/2.eb0391b5.chunk.css",
+    "static/js/2.c0fe4e17.chunk.js": "./static/js/2.c0fe4e17.chunk.js",
+    "static/js/2.c0fe4e17.chunk.js.map": "./static/js/2.c0fe4e17.chunk.js.map",
+    "static/js/3.7e00ca12.chunk.js": "./static/js/3.7e00ca12.chunk.js",
+    "static/js/3.7e00ca12.chunk.js.map": "./static/js/3.7e00ca12.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.eb0391b5.chunk.css.map": "./static/css/2.eb0391b5.chunk.css.map",
+    "static/css/main.805ec9a0.chunk.css.map": "./static/css/main.805ec9a0.chunk.css.map",
+    "static/js/2.c0fe4e17.chunk.js.LICENSE.txt": "./static/js/2.c0fe4e17.chunk.js.LICENSE.txt",
+    "static/media/1.ba505850.jpg": "./static/media/1.ba505850.jpg",
+    "static/media/2.2780e839.jpg": "./static/media/2.2780e839.jpg",
+    "static/media/3.8fed35da.jpg": "./static/media/3.8fed35da.jpg",
+    "static/media/4.4a285e36.jpg": "./static/media/4.4a285e36.jpg",
+    "static/media/adidas.b64b50a7.png": "./static/media/adidas.b64b50a7.png",
+    "static/media/converse.ac3cfdb5.png": "./static/media/converse.ac3cfdb5.png",
+    "static/media/logo.eb22f9bc.png": "./static/media/logo.eb22f9bc.png",
+    "static/media/louisvuitton.1459eb60.png": "./static/media/louisvuitton.1459eb60.png",
+    "static/media/nike.c04ef93d.png": "./static/media/nike.c04ef93d.png",
+    "static/media/styles.css": "./static/media/revicons.e8746a62.woff",
+    "static/media/shop1.f6b32504.jpg": "./static/media/shop1.f6b32504.jpg",
+    "static/media/shop2.012b58e7.jpg": "./static/media/shop2.012b58e7.jpg",
+    "static/media/shop3.dc35c508.jpg": "./static/media/shop3.dc35c508.jpg",
+    "static/media/shop4.f47701f1.jpg": "./static/media/shop4.f47701f1.jpg",
+    "static/media/timberland.b0ee09ef.png": "./static/media/timberland.b0ee09ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd4f1342.js",
+    "static/css/2.eb0391b5.chunk.css",
+    "static/js/2.c0fe4e17.chunk.js",
+    "static/css/main.805ec9a0.chunk.css",
+    "static/js/main.375277f3.chunk.js"
+  ]
+}
